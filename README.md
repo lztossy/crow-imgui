@@ -12,11 +12,14 @@ CrowXImGui is a custom framework that integrates an ImGui-based user interface w
 - C++17 or later
 - [Crow](https://github.com/CrowCpp/Crow) (WebSocket library)
 - [nlohmann/json](https://github.com/nlohmann/json) (JSON parsing library)
+- [ASIO](https://think-async.com/Asio/) (Standalone ASIO for networking)
+- [cURL](https://curl.se/) (For HTTP requests)
 - [ImGui](https://github.com/ocornut/imgui) (for GUI)
 
 ## Installation
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lztossy/CrowXImGui.git
+git clone https://github.com/yourusername/CrowXImGui.git
 cd CrowXImGui
+###
