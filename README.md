@@ -15,7 +15,7 @@ CrowXImGui is a cfw (custom-framework that uses an imgui-based user interface wi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CrowXImGui.git
+git clone https://github.com/lztossy/CrowXImGui.git
 cd CrowXImGui
 ```
 
